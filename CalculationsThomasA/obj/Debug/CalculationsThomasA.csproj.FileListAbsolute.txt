@@ -1,0 +1,9 @@
+C:\Users\Thomas\Desktop\Programming\Introduction\CalculationsThomasA\CalculationsThomasA\bin\Debug\CalculationsThomasA.exe.config
+C:\Users\Thomas\Desktop\Programming\Introduction\CalculationsThomasA\CalculationsThomasA\bin\Debug\CalculationsThomasA.exe
+C:\Users\Thomas\Desktop\Programming\Introduction\CalculationsThomasA\CalculationsThomasA\bin\Debug\CalculationsThomasA.pdb
+C:\Users\Thomas\Desktop\Programming\Introduction\CalculationsThomasA\CalculationsThomasA\obj\Debug\CalculationsThomasA.frmCalculations.resources
+C:\Users\Thomas\Desktop\Programming\Introduction\CalculationsThomasA\CalculationsThomasA\obj\Debug\CalculationsThomasA.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Programming\Introduction\CalculationsThomasA\CalculationsThomasA\obj\Debug\CalculationsThomasA.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\Programming\Introduction\CalculationsThomasA\CalculationsThomasA\obj\Debug\CalculationsThomasA.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programming\Introduction\CalculationsThomasA\CalculationsThomasA\obj\Debug\CalculationsThomasA.exe
+C:\Users\Thomas\Desktop\Programming\Introduction\CalculationsThomasA\CalculationsThomasA\obj\Debug\CalculationsThomasA.pdb
